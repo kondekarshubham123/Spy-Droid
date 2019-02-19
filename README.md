@@ -28,7 +28,7 @@ Spy-Droid is an open source git tool using which we can keep eye in someone othe
 
 ## Download/Config/Usage:
    1) - Download the tool from github
-         - git clone https://github.com/kondekarshubham123/Drovo.git
+         - git clone https://github.com/kondekarshubham123/Spy-Droid.git
 
    2) - Set script execution permission
          - cd Spy-Droid
