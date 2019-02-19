@@ -11,7 +11,7 @@ Spy-Droid is an open source git tool using which we can keep eye in someone othe
    Spy-Droid is a framework that create & generate & embed apk payload to penetrate android platforms
  
 ## Screenshot:
-![pic1]("Soon Will be displayed")
+![pic1]("https://i.imgur.com/gsLPiBh.png")
 
 ![pic2](#Soon will Be uploaded")
 
