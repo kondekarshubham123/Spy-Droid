@@ -11,7 +11,7 @@ Spy-Droid is an open source git tool using which we can keep eye in someone othe
    Spy-Droid is a framework that create & generate & embed apk payload to penetrate android platforms
  
 ## Screenshot:
-![pic1](https://i.imgur.com/gsLPiBh.png)
+![pic1](https://i.imgur.com/6kN9NtP.png)
 
 ![pic2](#Soon will Be uploaded")
 
@@ -32,8 +32,8 @@ Spy-Droid is an open source git tool using which we can keep eye in someone othe
 
    2) - Set script execution permission
          - cd Spy-Droid
-         - chmod +x Spy-Droid
+         - chmod +x spy-droid
 
 
    3) - Run Drovo Framework :
-        - ./Spy-Droid
+        - ./spy-droid
