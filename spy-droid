@@ -13,7 +13,7 @@
 # This is an open source tool if you want to modify or add something . Please give me a copy.
 
 # resize terminal window
-resize -s 40 70 > /dev/null
+resize -s 40 95 > /dev/null
 #Colors
 cyan='\e[0;36m'
 lightcyan='\e[96m'
